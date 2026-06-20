@@ -160,11 +160,9 @@ jupyter notebook
 
 ## Author
 
-**Your Name**
+Manik Adhikari
 
 Data Analytics Portfolio Project
 
-LinkedIn: Your LinkedIn Profile
 
-GitHub: Your GitHub Profile
 
